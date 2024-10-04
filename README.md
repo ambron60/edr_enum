@@ -40,3 +40,10 @@ The script uses the following methods to detect EDR software:
 - Install the required dependencies:
   ```bash
   pip install psutil pywin32
+
+## Disclaimer
+
+This tool is intended for educational and research purposes only. It should **not** be used for any illegal or malicious activities. The author is **not responsible** for any misuse of this code or any damages caused by its use.
+
+By using this tool, you agree to use it in compliance with all applicable laws and regulations. Always obtain proper authorization before testing or scanning systems that do not belong to you.
+
